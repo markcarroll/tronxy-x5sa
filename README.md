@@ -5,7 +5,7 @@ This is the actual `kliper_config` folder for my Tronxy X5SA Pro printer. The pr
 
 Please note that this is a living repo and the config files are constantly being updated based on either the mods I am doing to the machine or just because I have an idea. **Please do not** take it as is, your machine will probably vary, but feel free to get ideas and adapt to your needs.
 
-You can find my posts on <https://marksmakerspace.com> and on Reddit as [u/SirThunderCloud](https://reddit.com/u/sirthundercloud)
+You can find my posts on <https://marksmakerspace.com/3dprinting/> and on Reddit as [u/SirThunderCloud](https://reddit.com/u/sirthundercloud)
 
 ## Mods and hardware changes
 
